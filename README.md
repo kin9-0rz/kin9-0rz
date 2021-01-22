@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is K.
 
-I am a Android security engineer @360.
+I am a Android security engineer.
 
 - 🌱 I’m currently learning operating system, network, programming, cryptology, reverse engineering, vulnerability etc. 
 - 📫 How to reach me: kin9-0rz@outlook.com 
